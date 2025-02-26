@@ -1,5 +1,5 @@
 <DOCTYPE html>
-  <html>
+<html>
 <head> 
 <title>tasty treats</title>
 </head>
